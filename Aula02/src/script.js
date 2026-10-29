@@ -1,0 +1,59 @@
+// Declarando variáveis utilizando let e const
+let numero1 = 35;
+const numero2 = 100;
+
+console.log(numero1);
+console.log(numero2);
+
+console.log("");
+
+// Declarando variável automaticamnte 
+numero3 = 500;
+
+numero3 = 600;
+
+console.log(numero3);
+
+console.log("");
+
+// Declarando variável com var
+var ex1Var = 90;
+
+var ex1Var = 80;
+
+console.log(ex1Var);
+
+console.log("");
+
+// Tipos de dados em JavaScript: números e Strings
+let ex1Numero = 40;
+let ex1Srting = "Emilly";
+let ex2String = "40";
+
+console.log(ex1Numero);
+console.log(ex1Srting);
+console.log(ex2String);
+
+console.log("");
+
+// Declarando várias variáveis em uma única instrução
+let ex1 = "Emilly", ex2 = 90, ex3 = 85;
+
+// Operações aritméticas no JavaScript
+let soma = 10 + 6 + 4;
+
+console.log("0 resultado de 10 + 6 + 4 é =" + soma);
+
+let nomeCompleto = "Emilly" + " " + "Jacinto";
+
+console.log(nomeCompleto);
+
+// Operação de atribuição
+let x = 10;
+
+console.log (x);
+
+x = x + 5;
+
+console.log(x);
+
