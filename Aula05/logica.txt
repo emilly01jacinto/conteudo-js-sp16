@@ -1,0 +1,15 @@
+1-acordar
+2-abrir a tela do celular para ver horário
+3-descobrir
+4-levantar da cama 
+5-colocar o chinelo 
+6-ir para o banheiro
+7-lavar os rosto
+8-usar fio dental
+9-passar o fio dental entre os dentes
+10-jogar o fio dental usado no lixo
+11-pegar a escova 
+12-lavar as cerdas da escova 
+13-colocar a pasta de dente na escova
+14-escovar os dentes
+15-escovar a língua
